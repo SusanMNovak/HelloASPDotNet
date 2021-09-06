@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloASPDotNet.Controllers
 {
-    public class HelloController1 : Controller
+    public class HelloController : Controller
     {
         //GET: /<controller>/
         public IActionResult Index()
